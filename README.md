@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayoub Elorfi
-- 👀 I’m interested in web development with Django and Python
+- 👀 Software Engineer and Technical Team Leader
 - 📫 Reach me at ayoup@cloudtech.ly 
 
 <!---
