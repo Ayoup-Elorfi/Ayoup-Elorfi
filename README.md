@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayoub Elorfi
 - 👀 Software Engineer and Technical Team Leader
-- 📫 Reach me at ayoup@cloudtech.ly 
+- 📫 Reach me at ayoub@cloudtech.ly 
 
 <!---
 Ayoup-Elorfi/Ayoup-Elorfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
